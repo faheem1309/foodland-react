@@ -1,11 +1,15 @@
-import React from 'react';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import RecipeGrid from "./components/RecipeGrid";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Food Recipes Landing Page</h1>
-    </div>
+    <>
+      <Navbar />
+      <Hero />
+      <RecipeGrid />
+    </>
   );
 }
 
