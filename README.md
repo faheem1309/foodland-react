@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/faheem1309/foodland-react/main/public/logo.png" width="120" style="border-radius:20px;" />
-
 # 🍔 FoodLand – Modern Food Recipes Landing Page
 
 *A clean, responsive React-based food discovery landing page built on real demand and guided learning.*
