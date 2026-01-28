@@ -53,8 +53,7 @@ This project represents **learning by building**, not tutorials by copying.
 
 ---
 
-## 🧩 Project Structure (Vertical & Clean)
-
+## 🧩 Project Structure 
 food-recipes-landing-page/
 │
 ├── public/
@@ -90,8 +89,7 @@ food-recipes-landing-page/
 
 ---
 
-## 🛠️ Tech Stack Used (Clickable Stickers)
-
+## 🛠️ Tech Stack Used 
 <a href="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/⚛️_React-JavaScript-blue?style=for-the-badge&logo=react">
 </a>
